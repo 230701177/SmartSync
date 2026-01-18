@@ -55,7 +55,7 @@ export default function FaceRecognitionScreen({ route }) {
           console.error("Failed to save log", e);
         }
 
-        navigation.navigate('SuccessScreen', {
+        navigation.navigate('Success', {
           title: "Attendance Marked",
           message: `Face matched successfully for ${subject || 'your session'}.`,
           redirectTo: 'StudentHome'

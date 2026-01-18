@@ -150,7 +150,7 @@ export default function App() {
 
           {/* Standalone screens */}
           <Stack.Screen name="QRCreate" component={QRCreate} />
-          <Stack.Screen name="SuccessScreen" component={SuccessScreen} />
+          <Stack.Screen name="Success" component={SuccessScreen} />
           <Stack.Screen name="AttendanceReports" component={AttendanceReportsScreen} />
           <Stack.Screen name="QRScanner" component={QRScannerScreen} />
           <Stack.Screen name="FaceRecognitionScreen" component={FaceRecognitionScreen} />
