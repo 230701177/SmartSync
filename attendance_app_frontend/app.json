@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "attendance-app",
+    "slug": "snack-2fa88d76-732a-45b1-b125-e8bcf38318dc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.manoharan.snack2fa88d76732a45b1b125e8bcf38318dc"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
